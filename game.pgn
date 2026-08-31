@@ -2,8 +2,26 @@
 [White "Human"]
 [Black "AI"]
 
-1. e2e4 b8c6 
-2. g1f3 g8f6 
-3. e4e5 f6g4 
-4. d2d4 e7e6 
+1. e2e4  Evaluation: 10
+2. b8c6  Evaluation: -20
+3. g1f3  Evaluation: 10
+4. g8f6  Evaluation: -20
+5. b1c3  Evaluation: 10
+6. a7a5  Evaluation: 0
+7. f1b5  Evaluation: 0
+8. c6a7  Evaluation: 0
+9. d2d4  Evaluation: 10
+10. a7b5  Evaluation: -320
+11. c3b5  Evaluation: 30
+12. f6e4  Evaluation: -80
+13. c1f4  Evaluation: -80
+14. d7d6  Evaluation: -85
+15. d1d4  Evaluation: -85
+16. e1g1  Evaluation: -85
+17. c8g4  Evaluation: -85
+18. f1e1  Evaluation: -85
+19. c7c6  Evaluation: -90
+20. e1e4  Evaluation: 260
+21. c6b5  Evaluation: -95
+Total moves: 21
 
